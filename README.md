@@ -1,2 +1,2 @@
 # SpeedTest
-Este aplicativo web simples foi criado utilizando Streamlit e Speedtest-cli para realizar testes de velocidade de internet diretamente no navegador.
+This simple web application was created using Streamlit and Speedtest-cli to perform internet speed tests directly in the browser.
